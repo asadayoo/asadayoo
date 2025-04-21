@@ -40,8 +40,6 @@ Shishishishi~ another nakama has been caught.
 ## **📫 Contact**
 <a href="https://github.com/asadayoo"><img align="right" width="100" src="https://prd-game-a3-granbluefantasy.akamaized.net/assets_en/img/sp/assets/npc/t/skin/3040416000_81_s1.png" /></a>
 
-**You can also email me here:** ahmadassadf428@gmail.com
-
 [![](https://img.shields.io/github/followers/asadayoo?label=Followers&style=social)](https://github.com/asadayoo)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://id.linkedin.com/in/ahmad-assad-fattahilah-a4651a262)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:ahmadassadf428@gmail.com)
