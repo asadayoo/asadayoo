@@ -9,18 +9,21 @@ an seiyuu enthusiast and I’m currently learning JavaScript for the web browser
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <br><br><br><br><br><br>
 
 ## **📊 Github Stats**
-
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=asadayoo&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadayoo&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center">  
+  		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=asadayoo&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+  		<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asadayoo&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117"/>
 </p>
+
+
 
 ## 
 <p align="center">
